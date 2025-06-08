@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on Concept Blending Team
 - 🌱 I’m currently learning Computer Science
 - 👯 I’m looking to collaborate on Machine Learning, AI agents and Video Editing.
-- 😄 Pronouns: HABESHA
-- ⚡ Fun fact:  The derivative of a constant is always zero. It's the mathematical proof that some things will simply never change.
+- 😄 😄 
 
 
 
