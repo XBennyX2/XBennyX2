@@ -12,8 +12,6 @@
 
 # 💻 Tech Stack:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -30,7 +28,7 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=XbennyX2&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=XbennyX2&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XbennyX2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
