@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Concept Blending Team
 - 🌱 I’m currently learning Computer Science
 - 👯 I’m looking to collaborate on Machine Learning, AI agents and Video Editing.
-- 😄 😄 
+
 
 
 
